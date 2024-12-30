@@ -92,7 +92,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="width" val="1"/>
     </tool>
     <tool name="Divider">
-      <a name="width" val="1"/>
+      <a name="width" val="32"/>
     </tool>
     <tool name="Negator">
       <a name="width" val="1"/>
@@ -4716,6 +4716,108 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <comp lib="0" loc="(780,100)" name="Tunnel">
       <a name="width" val="32"/>
       <a name="label" val="Result 1"/>
+    </comp>
+  </circuit>
+  <circuit name="32-bit Un-signed divider">
+    <a name="circuit" val="32-bit Un-signed divider"/>
+    <a name="clabel" val=""/>
+    <a name="clabelup" val="east"/>
+    <a name="clabelfont" val="SansSerif plain 12"/>
+    <wire from="(420,380)" to="(450,380)"/>
+    <wire from="(420,400)" to="(450,400)"/>
+    <wire from="(760,100)" to="(780,100)"/>
+    <wire from="(740,100)" to="(760,100)"/>
+    <wire from="(300,100)" to="(320,100)"/>
+    <wire from="(320,100)" to="(340,100)"/>
+    <wire from="(520,100)" to="(540,100)"/>
+    <wire from="(500,100)" to="(520,100)"/>
+    <wire from="(470,410)" to="(470,420)"/>
+    <wire from="(120,100)" to="(140,100)"/>
+    <wire from="(420,340)" to="(420,380)"/>
+    <wire from="(420,400)" to="(420,440)"/>
+    <wire from="(490,390)" to="(500,390)"/>
+    <wire from="(140,100)" to="(140,180)"/>
+    <wire from="(320,100)" to="(320,180)"/>
+    <wire from="(140,100)" to="(150,100)"/>
+    <wire from="(310,440)" to="(420,440)"/>
+    <wire from="(310,340)" to="(420,340)"/>
+    <wire from="(520,100)" to="(520,180)"/>
+    <wire from="(150,340)" to="(220,340)"/>
+    <wire from="(150,440)" to="(220,440)"/>
+    <wire from="(760,100)" to="(760,180)"/>
+    <comp loc="(310,340)" name="32-bit Absolute value"/>
+    <comp lib="0" loc="(320,180)" name="Probe">
+      <a name="facing" val="north"/>
+      <a name="radix" val="10signed"/>
+    </comp>
+    <comp lib="0" loc="(140,180)" name="Probe">
+      <a name="facing" val="north"/>
+      <a name="radix" val="10signed"/>
+    </comp>
+    <comp lib="0" loc="(340,100)" name="Tunnel">
+      <a name="width" val="32"/>
+      <a name="label" val="B"/>
+    </comp>
+    <comp lib="0" loc="(540,100)" name="Tunnel">
+      <a name="width" val="32"/>
+      <a name="label" val="Result 1"/>
+    </comp>
+    <comp lib="0" loc="(500,100)" name="Pin">
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+      <a name="tristate" val="false"/>
+    </comp>
+    <comp lib="0" loc="(150,340)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="A"/>
+    </comp>
+    <comp lib="0" loc="(120,100)" name="Pin">
+      <a name="width" val="32"/>
+      <a name="tristate" val="false"/>
+    </comp>
+    <comp lib="0" loc="(300,100)" name="Pin">
+      <a name="width" val="32"/>
+      <a name="tristate" val="false"/>
+    </comp>
+    <comp lib="0" loc="(500,390)" name="Tunnel">
+      <a name="width" val="32"/>
+      <a name="label" val="Result 1"/>
+    </comp>
+    <comp lib="0" loc="(470,420)" name="Tunnel">
+      <a name="facing" val="north"/>
+      <a name="width" val="32"/>
+      <a name="label" val="Result 2"/>
+    </comp>
+    <comp lib="0" loc="(150,440)" name="Tunnel">
+      <a name="facing" val="east"/>
+      <a name="width" val="32"/>
+      <a name="label" val="B"/>
+    </comp>
+    <comp lib="0" loc="(760,180)" name="Probe">
+      <a name="facing" val="north"/>
+      <a name="radix" val="10signed"/>
+    </comp>
+    <comp lib="0" loc="(740,100)" name="Pin">
+      <a name="output" val="true"/>
+      <a name="width" val="32"/>
+      <a name="tristate" val="false"/>
+    </comp>
+    <comp loc="(310,440)" name="32-bit Absolute value"/>
+    <comp lib="0" loc="(780,100)" name="Tunnel">
+      <a name="width" val="32"/>
+      <a name="label" val="Result 2"/>
+    </comp>
+    <comp lib="0" loc="(520,180)" name="Probe">
+      <a name="facing" val="north"/>
+      <a name="radix" val="10signed"/>
+    </comp>
+    <comp lib="0" loc="(150,100)" name="Tunnel">
+      <a name="width" val="32"/>
+      <a name="label" val="A"/>
+    </comp>
+    <comp lib="3" loc="(490,390)" name="Divider">
+      <a name="width" val="32"/>
     </comp>
   </circuit>
   <circuit name="32-bit Absolute value">
