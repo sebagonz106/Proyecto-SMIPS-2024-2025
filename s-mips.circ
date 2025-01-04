@@ -5728,27 +5728,22 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(380,300)" to="(380,320)"/>
     <wire from="(380,340)" to="(380,360)"/>
     <wire from="(380,380)" to="(380,400)"/>
-    <wire from="(790,270)" to="(790,300)"/>
     <wire from="(420,650)" to="(720,650)"/>
-    <wire from="(910,270)" to="(910,300)"/>
-    <wire from="(580,300)" to="(680,300)"/>
-    <wire from="(680,270)" to="(790,270)"/>
+    <wire from="(640,400)" to="(740,400)"/>
     <wire from="(420,620)" to="(420,650)"/>
     <wire from="(580,100)" to="(580,120)"/>
     <wire from="(50,50)" to="(150,50)"/>
     <wire from="(580,140)" to="(580,160)"/>
     <wire from="(580,180)" to="(580,200)"/>
-    <wire from="(580,340)" to="(580,360)"/>
-    <wire from="(580,300)" to="(580,320)"/>
-    <wire from="(580,380)" to="(580,400)"/>
     <wire from="(790,50)" to="(790,200)"/>
     <wire from="(260,50)" to="(260,400)"/>
+    <wire from="(640,320)" to="(640,340)"/>
+    <wire from="(640,360)" to="(640,380)"/>
     <wire from="(50,50)" to="(50,80)"/>
     <wire from="(550,830)" to="(550,870)"/>
     <wire from="(530,810)" to="(530,850)"/>
     <wire from="(420,530)" to="(770,530)"/>
     <wire from="(720,630)" to="(740,630)"/>
-    <wire from="(790,300)" to="(790,400)"/>
     <wire from="(430,620)" to="(450,620)"/>
     <wire from="(150,740)" to="(170,740)"/>
     <wire from="(450,860)" to="(730,860)"/>
@@ -5767,12 +5762,10 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(770,530)" to="(770,580)"/>
     <wire from="(620,570)" to="(740,570)"/>
     <wire from="(620,690)" to="(740,690)"/>
-    <wire from="(790,300)" to="(910,300)"/>
     <wire from="(920,690)" to="(920,700)"/>
     <wire from="(940,610)" to="(1060,610)"/>
     <wire from="(260,50)" to="(380,50)"/>
     <wire from="(50,220)" to="(50,240)"/>
-    <wire from="(580,270)" to="(680,270)"/>
     <wire from="(650,820)" to="(650,850)"/>
     <wire from="(50,140)" to="(50,160)"/>
     <wire from="(50,100)" to="(50,120)"/>
@@ -5781,29 +5774,30 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(50,300)" to="(50,320)"/>
     <wire from="(50,340)" to="(50,360)"/>
     <wire from="(50,380)" to="(50,400)"/>
-    <wire from="(580,270)" to="(580,300)"/>
+    <wire from="(740,270)" to="(740,300)"/>
     <wire from="(490,780)" to="(730,780)"/>
     <wire from="(680,200)" to="(790,200)"/>
-    <wire from="(680,400)" to="(790,400)"/>
     <wire from="(910,120)" to="(910,140)"/>
     <wire from="(910,160)" to="(910,180)"/>
     <wire from="(910,80)" to="(910,100)"/>
-    <wire from="(910,320)" to="(910,340)"/>
-    <wire from="(910,360)" to="(910,380)"/>
+    <wire from="(740,300)" to="(850,300)"/>
+    <wire from="(850,300)" to="(850,320)"/>
+    <wire from="(850,340)" to="(850,360)"/>
+    <wire from="(850,380)" to="(850,400)"/>
     <wire from="(720,610)" to="(720,630)"/>
     <wire from="(500,600)" to="(590,600)"/>
     <wire from="(550,830)" to="(570,830)"/>
     <wire from="(720,640)" to="(740,640)"/>
+    <wire from="(640,320)" to="(850,320)"/>
+    <wire from="(640,360)" to="(850,360)"/>
     <wire from="(450,580)" to="(450,620)"/>
+    <wire from="(740,300)" to="(740,400)"/>
     <wire from="(500,690)" to="(580,690)"/>
     <wire from="(730,780)" to="(730,830)"/>
     <wire from="(490,780)" to="(490,840)"/>
     <wire from="(580,120)" to="(910,120)"/>
     <wire from="(580,80)" to="(910,80)"/>
     <wire from="(580,160)" to="(910,160)"/>
-    <wire from="(580,360)" to="(910,360)"/>
-    <wire from="(580,320)" to="(910,320)"/>
-    <wire from="(790,270)" to="(910,270)"/>
     <wire from="(910,690)" to="(910,700)"/>
     <wire from="(950,690)" to="(950,700)"/>
     <wire from="(600,820)" to="(650,820)"/>
@@ -5818,34 +5812,36 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(380,320)" to="(380,340)"/>
     <wire from="(380,360)" to="(380,380)"/>
     <wire from="(690,840)" to="(730,840)"/>
+    <wire from="(850,270)" to="(850,300)"/>
     <wire from="(910,50)" to="(910,80)"/>
     <wire from="(580,200)" to="(680,200)"/>
-    <wire from="(580,400)" to="(680,400)"/>
+    <wire from="(640,300)" to="(740,300)"/>
     <wire from="(450,620)" to="(450,700)"/>
     <wire from="(450,750)" to="(690,750)"/>
     <wire from="(680,50)" to="(790,50)"/>
     <wire from="(420,560)" to="(420,590)"/>
+    <wire from="(740,270)" to="(850,270)"/>
     <wire from="(450,870)" to="(550,870)"/>
     <wire from="(580,160)" to="(580,180)"/>
     <wire from="(580,80)" to="(580,100)"/>
     <wire from="(580,120)" to="(580,140)"/>
-    <wire from="(580,320)" to="(580,340)"/>
-    <wire from="(580,360)" to="(580,380)"/>
+    <wire from="(640,300)" to="(640,320)"/>
+    <wire from="(640,340)" to="(640,360)"/>
+    <wire from="(640,380)" to="(640,400)"/>
     <wire from="(450,840)" to="(490,840)"/>
     <wire from="(150,680)" to="(170,680)"/>
     <wire from="(550,560)" to="(550,680)"/>
     <wire from="(50,160)" to="(380,160)"/>
     <wire from="(50,80)" to="(380,80)"/>
     <wire from="(50,120)" to="(380,120)"/>
-    <wire from="(50,200)" to="(380,200)"/>
-    <wire from="(50,240)" to="(380,240)"/>
     <wire from="(50,280)" to="(380,280)"/>
     <wire from="(450,850)" to="(530,850)"/>
     <wire from="(50,320)" to="(380,320)"/>
     <wire from="(50,360)" to="(380,360)"/>
+    <wire from="(50,200)" to="(380,200)"/>
+    <wire from="(50,240)" to="(380,240)"/>
     <wire from="(650,850)" to="(730,850)"/>
     <wire from="(790,200)" to="(910,200)"/>
-    <wire from="(790,400)" to="(910,400)"/>
     <wire from="(790,600)" to="(910,600)"/>
     <wire from="(940,690)" to="(940,700)"/>
     <wire from="(900,690)" to="(900,700)"/>
@@ -5859,20 +5855,20 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(50,200)" to="(50,220)"/>
     <wire from="(50,160)" to="(50,180)"/>
     <wire from="(580,50)" to="(680,50)"/>
-    <wire from="(680,270)" to="(680,300)"/>
     <wire from="(50,80)" to="(50,100)"/>
     <wire from="(50,120)" to="(50,140)"/>
     <wire from="(620,610)" to="(720,610)"/>
+    <wire from="(640,270)" to="(740,270)"/>
     <wire from="(580,50)" to="(580,80)"/>
     <wire from="(450,750)" to="(450,830)"/>
-    <wire from="(680,300)" to="(790,300)"/>
+    <wire from="(640,270)" to="(640,300)"/>
     <wire from="(420,530)" to="(420,560)"/>
     <wire from="(910,140)" to="(910,160)"/>
     <wire from="(910,100)" to="(910,120)"/>
     <wire from="(910,180)" to="(910,200)"/>
-    <wire from="(910,340)" to="(910,360)"/>
-    <wire from="(910,300)" to="(910,320)"/>
-    <wire from="(910,380)" to="(910,400)"/>
+    <wire from="(740,400)" to="(850,400)"/>
+    <wire from="(850,320)" to="(850,340)"/>
+    <wire from="(850,360)" to="(850,380)"/>
     <wire from="(920,630)" to="(920,650)"/>
     <wire from="(380,50)" to="(380,80)"/>
     <wire from="(680,50)" to="(680,200)"/>
@@ -5880,9 +5876,10 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(50,400)" to="(150,400)"/>
     <wire from="(500,600)" to="(500,690)"/>
     <wire from="(740,650)" to="(740,690)"/>
+    <wire from="(640,340)" to="(850,340)"/>
+    <wire from="(640,380)" to="(850,380)"/>
     <wire from="(820,620)" to="(910,620)"/>
     <wire from="(820,620)" to="(820,850)"/>
-    <wire from="(680,300)" to="(680,400)"/>
     <wire from="(420,610)" to="(430,610)"/>
     <wire from="(750,850)" to="(820,850)"/>
     <wire from="(450,620)" to="(580,620)"/>
@@ -5890,11 +5887,13 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(580,100)" to="(910,100)"/>
     <wire from="(580,180)" to="(910,180)"/>
     <wire from="(580,140)" to="(910,140)"/>
-    <wire from="(580,340)" to="(910,340)"/>
-    <wire from="(580,380)" to="(910,380)"/>
     <comp lib="6" loc="(631,70)" name="Text">
       <a name="text" val="Operation"/>
       <a name="font" val="Arial bold 14"/>
+    </comp>
+    <comp lib="6" loc="(208,176)" name="Text">
+      <a name="text" val="10 0100"/>
+      <a name="font" val="Arial plain 14"/>
     </comp>
     <comp lib="0" loc="(150,740)" name="Pin">
       <a name="width" val="6"/>
@@ -5902,12 +5901,20 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="label" val="Func-Code"/>
       <a name="labelloc" val="south"/>
     </comp>
-    <comp lib="6" loc="(212,215)" name="Text">
-      <a name="text" val="10 0101"/>
+    <comp lib="6" loc="(688,316)" name="Text">
+      <a name="text" val="beq"/>
+      <a name="font" val="Arial plain 14"/>
+    </comp>
+    <comp lib="6" loc="(796,316)" name="Text">
+      <a name="text" val="00 0100"/>
       <a name="font" val="Arial plain 14"/>
     </comp>
     <comp lib="6" loc="(324,355)" name="Text">
       <a name="text" val="1110"/>
+      <a name="font" val="Arial plain 14"/>
+    </comp>
+    <comp lib="6" loc="(689,335)" name="Text">
+      <a name="text" val="bne"/>
       <a name="font" val="Arial plain 14"/>
     </comp>
     <comp lib="6" loc="(318,116)" name="Text">
@@ -5918,18 +5925,10 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="text" val="1011"/>
       <a name="font" val="Arial plain 14"/>
     </comp>
-    <comp lib="6" loc="(631,356)" name="Text">
-      <a name="text" val="blez"/>
-      <a name="font" val="Arial plain 14"/>
-    </comp>
     <comp lib="1" loc="(620,610)" name="AND Gate">
       <a name="size" val="30"/>
       <a name="inputs" val="2"/>
       <a name="negate1" val="true"/>
-    </comp>
-    <comp lib="6" loc="(323,175)" name="Text">
-      <a name="text" val="0100"/>
-      <a name="font" val="Arial plain 14"/>
     </comp>
     <comp lib="6" loc="(100,275)" name="Text">
       <a name="text" val="slt"/>
@@ -5941,10 +5940,6 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     </comp>
     <comp lib="6" loc="(326,395)" name="Text">
       <a name="text" val="1111"/>
-      <a name="font" val="Arial plain 14"/>
-    </comp>
-    <comp lib="6" loc="(210,176)" name="Text">
-      <a name="text" val="10 0100"/>
       <a name="font" val="Arial plain 14"/>
     </comp>
     <comp lib="6" loc="(100,255)" name="Text">
@@ -5966,20 +5961,16 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="text" val="00 1100"/>
       <a name="font" val="Arial plain 14"/>
     </comp>
+    <comp lib="6" loc="(205,137)" name="Text">
+      <a name="text" val="10 0001"/>
+      <a name="font" val="Arial plain 14"/>
+    </comp>
     <comp lib="0" loc="(1060,610)" name="Pin">
       <a name="facing" val="west"/>
       <a name="output" val="true"/>
       <a name="width" val="4"/>
       <a name="label" val="ALU operation"/>
       <a name="labelloc" val="south"/>
-    </comp>
-    <comp lib="6" loc="(212,234)" name="Text">
-      <a name="text" val="10 0111"/>
-      <a name="font" val="Arial plain 14"/>
-    </comp>
-    <comp lib="6" loc="(628,316)" name="Text">
-      <a name="text" val="beq"/>
-      <a name="font" val="Arial plain 14"/>
     </comp>
     <comp lib="6" loc="(322,315)" name="Text">
       <a name="text" val="1011"/>
@@ -5992,10 +5983,6 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     </comp>
     <comp lib="6" loc="(625,95)" name="Text">
       <a name="text" val="addi"/>
-      <a name="font" val="Arial plain 14"/>
-    </comp>
-    <comp lib="6" loc="(738,375)" name="Text">
-      <a name="text" val="00 0111"/>
       <a name="font" val="Arial plain 14"/>
     </comp>
     <comp lib="6" loc="(98,94)" name="Text">
@@ -6019,9 +6006,9 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="width" val="6"/>
       <a name="label" val="OP-Code"/>
     </comp>
-    <comp lib="6" loc="(631,290)" name="Text">
-      <a name="text" val="Operation"/>
-      <a name="font" val="Arial bold 14"/>
+    <comp lib="6" loc="(692,375)" name="Text">
+      <a name="text" val="bgtz"/>
+      <a name="font" val="Arial plain 14"/>
     </comp>
     <comp lib="0" loc="(430,850)" name="Splitter">
       <a name="fanout" val="5"/>
@@ -6051,12 +6038,12 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="text" val="Los otros ponlos tu a tu convenencia XD"/>
       <a name="font" val="Arial plain 14"/>
     </comp>
-    <comp lib="6" loc="(204,116)" name="Text">
-      <a name="text" val="10 0010"/>
+    <comp lib="6" loc="(318,136)" name="Text">
+      <a name="text" val="0010"/>
       <a name="font" val="Arial plain 14"/>
     </comp>
-    <comp lib="6" loc="(324,216)" name="Text">
-      <a name="text" val="0110"/>
+    <comp lib="6" loc="(204,116)" name="Text">
+      <a name="text" val="10 0010"/>
       <a name="font" val="Arial plain 14"/>
     </comp>
     <comp lib="6" loc="(849,174)" name="Text">
@@ -6073,6 +6060,10 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="size" val="30"/>
       <a name="inputs" val="2"/>
     </comp>
+    <comp lib="6" loc="(798,375)" name="Text">
+      <a name="text" val="00 0111"/>
+      <a name="font" val="Arial plain 14"/>
+    </comp>
     <comp lib="6" loc="(106,376)" name="Text">
       <a name="text" val="mulu"/>
       <a name="font" val="Arial plain 14"/>
@@ -6081,15 +6072,15 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="text" val="ALU-Op"/>
       <a name="font" val="Arial bold 14"/>
     </comp>
+    <comp lib="6" loc="(691,290)" name="Text">
+      <a name="text" val="Operation"/>
+      <a name="font" val="Arial bold 14"/>
+    </comp>
     <comp lib="6" loc="(102,234)" name="Text">
       <a name="text" val="nor"/>
       <a name="font" val="Arial plain 14"/>
     </comp>
     <comp lib="6" loc="(72,915)" name="Text">
-      <a name="font" val="Arial plain 14"/>
-    </comp>
-    <comp lib="6" loc="(738,355)" name="Text">
-      <a name="text" val="00 0110"/>
       <a name="font" val="Arial plain 14"/>
     </comp>
     <comp lib="0" loc="(920,750)" name="Tunnel">
@@ -6105,8 +6096,20 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="width" val="6"/>
       <a name="label" val="Func-Code"/>
     </comp>
+    <comp lib="6" loc="(323,234)" name="Text">
+      <a name="text" val="0111"/>
+      <a name="font" val="Arial plain 14"/>
+    </comp>
+    <comp lib="6" loc="(322,216)" name="Text">
+      <a name="text" val="0110"/>
+      <a name="font" val="Arial plain 14"/>
+    </comp>
     <comp lib="6" loc="(324,335)" name="Text">
       <a name="text" val="1100"/>
+      <a name="font" val="Arial plain 14"/>
+    </comp>
+    <comp lib="6" loc="(208,196)" name="Text">
+      <a name="text" val="10 0110"/>
       <a name="font" val="Arial plain 14"/>
     </comp>
     <comp lib="2" loc="(940,610)" name="Multiplexer">
@@ -6116,6 +6119,10 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <comp lib="6" loc="(735,136)" name="Text">
       <a name="text" val="00 1101"/>
       <a name="font" val="Arial plain 14"/>
+    </comp>
+    <comp lib="6" loc="(742,260)" name="Text">
+      <a name="text" val="ALU-Op: 1001"/>
+      <a name="font" val="Arial bold 14"/>
     </comp>
     <comp lib="0" loc="(750,850)" name="Splitter">
       <a name="facing" val="west"/>
@@ -6129,18 +6136,6 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     </comp>
     <comp lib="6" loc="(326,375)" name="Text">
       <a name="text" val="1110"/>
-      <a name="font" val="Arial plain 14"/>
-    </comp>
-    <comp lib="6" loc="(736,316)" name="Text">
-      <a name="text" val="00 0100"/>
-      <a name="font" val="Arial plain 14"/>
-    </comp>
-    <comp lib="6" loc="(737,336)" name="Text">
-      <a name="text" val="00 0101"/>
-      <a name="font" val="Arial plain 14"/>
-    </comp>
-    <comp lib="6" loc="(631,396)" name="Text">
-      <a name="text" val="bltz"/>
       <a name="font" val="Arial plain 14"/>
     </comp>
     <comp lib="0" loc="(760,590)" name="Constant">
@@ -6162,10 +6157,6 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="text" val="10 1000"/>
       <a name="font" val="Arial plain 14"/>
     </comp>
-    <comp lib="6" loc="(738,395)" name="Text">
-      <a name="text" val="00 0001"/>
-      <a name="font" val="Arial plain 14"/>
-    </comp>
     <comp lib="6" loc="(625,195)" name="Text">
       <a name="text" val="sltiu"/>
       <a name="font" val="Arial plain 14"/>
@@ -6178,8 +6169,8 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="text" val="00 1110"/>
       <a name="font" val="Arial plain 14"/>
     </comp>
-    <comp lib="6" loc="(850,317)" name="Text">
-      <a name="text" val="1001"/>
+    <comp lib="6" loc="(797,336)" name="Text">
+      <a name="text" val="00 0101"/>
       <a name="font" val="Arial plain 14"/>
     </comp>
     <comp lib="6" loc="(211,396)" name="Text">
@@ -6198,21 +6189,37 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="text" val="01 1001"/>
       <a name="font" val="Arial plain 14"/>
     </comp>
+    <comp lib="6" loc="(206,155)" name="Text">
+      <a name="text" val="10 0011"/>
+      <a name="font" val="Arial plain 14"/>
+    </comp>
+    <comp lib="6" loc="(211,235)" name="Text">
+      <a name="text" val="10 0111"/>
+      <a name="font" val="Arial plain 14"/>
+    </comp>
+    <comp lib="6" loc="(319,157)" name="Text">
+      <a name="text" val="0011"/>
+      <a name="font" val="Arial plain 14"/>
+    </comp>
     <comp lib="1" loc="(620,570)" name="AND Gate">
       <a name="size" val="30"/>
       <a name="inputs" val="2"/>
-    </comp>
-    <comp lib="6" loc="(850,291)" name="Text">
-      <a name="text" val="ALU-Op"/>
-      <a name="font" val="Arial bold 14"/>
     </comp>
     <comp lib="6" loc="(210,356)" name="Text">
       <a name="text" val="01 1010"/>
       <a name="font" val="Arial plain 14"/>
     </comp>
-    <comp lib="6" loc="(735,290)" name="Text">
-      <a name="text" val="Op-Code"/>
-      <a name="font" val="Arial bold 14"/>
+    <comp lib="6" loc="(322,176)" name="Text">
+      <a name="text" val="0100"/>
+      <a name="font" val="Arial plain 14"/>
+    </comp>
+    <comp lib="6" loc="(691,356)" name="Text">
+      <a name="text" val="blez"/>
+      <a name="font" val="Arial plain 14"/>
+    </comp>
+    <comp lib="6" loc="(798,355)" name="Text">
+      <a name="text" val="00 0110"/>
+      <a name="font" val="Arial plain 14"/>
     </comp>
     <comp lib="6" loc="(735,95)" name="Text">
       <a name="text" val="00 1000"/>
@@ -6225,7 +6232,23 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <comp lib="6" loc="(92,105)" name="Text">
       <a name="font" val="Arial plain 12"/>
     </comp>
+    <comp lib="6" loc="(320,196)" name="Text">
+      <a name="text" val="0101"/>
+      <a name="font" val="Arial plain 14"/>
+    </comp>
+    <comp lib="6" loc="(210,296)" name="Text">
+      <a name="text" val="10 1001"/>
+      <a name="font" val="Arial plain 14"/>
+    </comp>
+    <comp lib="6" loc="(210,215)" name="Text">
+      <a name="text" val="10 0101"/>
+      <a name="font" val="Arial plain 14"/>
+    </comp>
     <comp lib="6" loc="(102,335)" name="Text">
+      <a name="font" val="Arial plain 14"/>
+    </comp>
+    <comp lib="6" loc="(691,396)" name="Text">
+      <a name="text" val="bltz"/>
       <a name="font" val="Arial plain 14"/>
     </comp>
     <comp lib="6" loc="(735,176)" name="Text">
@@ -6234,6 +6257,10 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     </comp>
     <comp lib="6" loc="(736,196)" name="Text">
       <a name="text" val="00 1011"/>
+      <a name="font" val="Arial plain 14"/>
+    </comp>
+    <comp lib="6" loc="(798,395)" name="Text">
+      <a name="text" val="00 0001"/>
       <a name="font" val="Arial plain 14"/>
     </comp>
     <comp lib="6" loc="(211,335)" name="Text">
@@ -6268,10 +6295,6 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="text" val="sltu"/>
       <a name="font" val="Arial plain 14"/>
     </comp>
-    <comp lib="6" loc="(632,375)" name="Text">
-      <a name="text" val="bgtz"/>
-      <a name="font" val="Arial plain 14"/>
-    </comp>
     <comp lib="0" loc="(760,610)" name="Splitter">
       <a name="facing" val="west"/>
       <a name="fanout" val="4"/>
@@ -6302,21 +6325,17 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="text" val="and"/>
       <a name="font" val="Arial plain 14"/>
     </comp>
-    <comp lib="6" loc="(629,335)" name="Text">
-      <a name="text" val="bne"/>
-      <a name="font" val="Arial plain 14"/>
-    </comp>
     <comp lib="1" loc="(920,650)" name="NOR Gate">
       <a name="facing" val="north"/>
       <a name="size" val="30"/>
       <a name="inputs" val="7"/>
     </comp>
-    <comp lib="6" loc="(623,134)" name="Text">
-      <a name="text" val="ori"/>
+    <comp lib="6" loc="(322,296)" name="Text">
+      <a name="text" val="1010"/>
       <a name="font" val="Arial plain 14"/>
     </comp>
-    <comp lib="6" loc="(325,234)" name="Text">
-      <a name="text" val="0111"/>
+    <comp lib="6" loc="(623,134)" name="Text">
+      <a name="text" val="ori"/>
       <a name="font" val="Arial plain 14"/>
     </comp>
     <comp lib="6" loc="(96,115)" name="Text">
@@ -6330,6 +6349,10 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <comp lib="6" loc="(849,94)" name="Text">
       <a name="text" val="0000"/>
       <a name="font" val="Arial plain 14"/>
+    </comp>
+    <comp lib="6" loc="(795,290)" name="Text">
+      <a name="text" val="Op-Code"/>
+      <a name="font" val="Arial bold 14"/>
     </comp>
   </circuit>
 </project>
