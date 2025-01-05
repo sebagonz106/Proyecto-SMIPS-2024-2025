@@ -6565,6 +6565,10 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <comp lib="0" loc="(1120,210)" name="Tunnel">
       <a name="label" val="J-Type"/>
     </comp>
+    <comp lib="6" loc="(420,622)" name="Text">
+      <a name="text" val="En el register file paso como selector del registro a escribir un multiplexer con Rt y Rd de entradas y este bit (R-Type) como selector"/>
+      <a name="font" val="Arial plain 14"/>
+    </comp>
     <comp lib="0" loc="(1000,790)" name="Splitter">
       <a name="fanout" val="1"/>
       <a name="incoming" val="6"/>
@@ -6640,6 +6644,10 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <comp lib="0" loc="(200,370)" name="Tunnel">
       <a name="width" val="32"/>
       <a name="label" val="PC"/>
+    </comp>
+    <comp lib="6" loc="(1162,842)" name="Text">
+      <a name="text" val="Selector que usara el branch control"/>
+      <a name="font" val="Arial plain 14"/>
     </comp>
     <comp lib="0" loc="(320,880)" name="Tunnel">
       <a name="facing" val="east"/>
@@ -6860,6 +6868,10 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="fanout" val="32"/>
       <a name="incoming" val="32"/>
       <a name="appear" val="center"/>
+    </comp>
+    <comp lib="6" loc="(1021,751)" name="Text">
+      <a name="text" val="Si es nop se mantiene el PC, si no se construye la nueva direccion"/>
+      <a name="font" val="Arial plain 14"/>
     </comp>
     <comp lib="1" loc="(1060,300)" name="AND Gate">
       <a name="size" val="30"/>
