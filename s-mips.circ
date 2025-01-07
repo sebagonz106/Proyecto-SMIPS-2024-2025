@@ -6074,9 +6074,9 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(930,670)" to="(930,680)"/>
     <wire from="(890,670)" to="(890,680)"/>
     <wire from="(150,400)" to="(260,400)"/>
-    <wire from="(920,700)" to="(920,730)"/>
     <wire from="(550,660)" to="(590,660)"/>
     <wire from="(550,540)" to="(590,540)"/>
+    <wire from="(920,700)" to="(920,730)"/>
     <wire from="(380,80)" to="(380,100)"/>
     <wire from="(380,160)" to="(380,180)"/>
     <wire from="(380,240)" to="(380,260)"/>
@@ -6238,7 +6238,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     </comp>
     <comp lib="0" loc="(1050,620)" name="Tunnel">
       <a name="facing" val="north"/>
-      <a name="label" val="DO"/>
+      <a name="label" val="TDir"/>
     </comp>
     <comp lib="0" loc="(430,830)" name="Tunnel">
       <a name="facing" val="east"/>
@@ -6439,7 +6439,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="font" val="Arial plain 14"/>
     </comp>
     <comp lib="6" loc="(210,296)" name="Text">
-      <a name="text" val="10 1001"/>
+      <a name="text" val="00 0010"/>
       <a name="font" val="Arial plain 14"/>
     </comp>
     <comp lib="6" loc="(212,254)" name="Text">
@@ -6547,14 +6547,14 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="text" val="0001"/>
       <a name="font" val="Arial plain 14"/>
     </comp>
+    <comp lib="6" loc="(211,316)" name="Text">
+      <a name="text" val="10 1011"/>
+      <a name="font" val="Arial plain 14"/>
+    </comp>
     <comp lib="0" loc="(920,730)" name="Tunnel">
       <a name="facing" val="north"/>
       <a name="width" val="6"/>
       <a name="label" val="OP-Code"/>
-    </comp>
-    <comp lib="6" loc="(211,316)" name="Text">
-      <a name="text" val="10 1011"/>
-      <a name="font" val="Arial plain 14"/>
     </comp>
     <comp lib="0" loc="(170,660)" name="Tunnel">
       <a name="width" val="6"/>
@@ -6577,7 +6577,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="font" val="Arial plain 12"/>
     </comp>
     <comp lib="0" loc="(170,840)" name="Tunnel">
-      <a name="label" val="DO"/>
+      <a name="label" val="TDir"/>
     </comp>
     <comp lib="6" loc="(208,176)" name="Text">
       <a name="text" val="10 0100"/>
@@ -6662,13 +6662,13 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="label" val="Direct Operation"/>
       <a name="labelloc" val="south"/>
     </comp>
+    <comp lib="6" loc="(100,294)" name="Text">
+      <a name="text" val="rnd (Op 11 1111)"/>
+      <a name="font" val="Arial plain 12"/>
+    </comp>
     <comp lib="6" loc="(320,196)" name="Text">
       <a name="text" val="0101"/>
       <a name="font" val="Arial plain 14"/>
-    </comp>
-    <comp lib="6" loc="(103,295)" name="Text">
-      <a name="text" val="rnd (Op 1111)"/>
-      <a name="font" val="Arial plain 12"/>
     </comp>
   </circuit>
   <circuit name="Instruction Decoder">
