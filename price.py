@@ -11,9 +11,9 @@ detailed = False
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("Proyecto-SMIPS-2024-2025", help="The logisim file")
+    parser.add_argument("file", help="The logisim file")
     parser.add_argument(
-        "s-mips", help="The name of the circuit to calculate the price."
+        "circuit_name", help="The name of the circuit to calculate the price."
     )
     parser.add_argument(
         "-d",
