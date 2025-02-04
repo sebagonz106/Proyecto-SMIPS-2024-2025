@@ -3132,10 +3132,10 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(860,510)" to="(920,510)"/>
     <wire from="(280,140)" to="(400,140)"/>
     <wire from="(230,80)" to="(340,80)"/>
-    <wire from="(430,200)" to="(470,200)"/>
     <wire from="(170,650)" to="(270,650)"/>
     <wire from="(170,350)" to="(270,350)"/>
     <wire from="(440,510)" to="(480,510)"/>
+    <wire from="(430,200)" to="(470,200)"/>
     <wire from="(940,170)" to="(960,170)"/>
     <wire from="(390,490)" to="(420,490)"/>
     <wire from="(390,510)" to="(420,510)"/>
@@ -3367,6 +3367,10 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="labelloc" val="south"/>
       <a name="labelfont" val="Arial bold 16"/>
     </comp>
+    <comp lib="0" loc="(340,100)" name="Constant">
+      <a name="width" val="32"/>
+      <a name="value" val="0x4"/>
+    </comp>
     <comp lib="0" loc="(470,200)" name="Pin">
       <a name="facing" val="west"/>
       <a name="output" val="true"/>
@@ -3374,10 +3378,6 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="label" val="Mask"/>
       <a name="labelloc" val="south"/>
       <a name="labelfont" val="Arial bold 14"/>
-    </comp>
-    <comp lib="0" loc="(340,100)" name="Constant">
-      <a name="width" val="32"/>
-      <a name="value" val="0x4"/>
     </comp>
     <comp lib="0" loc="(920,170)" name="Splitter">
       <a name="fanout" val="1"/>
@@ -9443,8 +9443,8 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(150,840)" to="(220,840)"/>
     <wire from="(960,460)" to="(970,460)"/>
     <wire from="(220,590)" to="(290,590)"/>
-    <wire from="(210,580)" to="(280,580)"/>
     <wire from="(760,460)" to="(760,510)"/>
+    <wire from="(210,580)" to="(280,580)"/>
     <wire from="(790,930)" to="(800,930)"/>
     <wire from="(1040,1170)" to="(1060,1170)"/>
     <wire from="(560,700)" to="(570,700)"/>
@@ -9529,8 +9529,8 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(990,1130)" to="(1600,1130)"/>
     <wire from="(810,630)" to="(1420,630)"/>
     <wire from="(590,710)" to="(590,790)"/>
-    <wire from="(210,580)" to="(210,860)"/>
     <wire from="(470,1040)" to="(570,1040)"/>
+    <wire from="(210,580)" to="(210,860)"/>
     <wire from="(990,470)" to="(990,550)"/>
     <wire from="(1430,640)" to="(1430,1200)"/>
     <wire from="(650,690)" to="(670,690)"/>
@@ -9734,6 +9734,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     </comp>
     <comp lib="2" loc="(290,550)" name="Decoder">
       <a name="select" val="3"/>
+      <a name="disabled" val="0"/>
     </comp>
     <comp lib="0" loc="(1270,1320)" name="Tunnel">
       <a name="facing" val="north"/>
@@ -9806,10 +9807,12 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <comp lib="2" loc="(280,1190)" name="Decoder">
       <a name="selloc" val="tr"/>
       <a name="select" val="3"/>
+      <a name="disabled" val="0"/>
     </comp>
     <comp lib="2" loc="(290,950)" name="Decoder">
       <a name="selloc" val="tr"/>
       <a name="select" val="3"/>
+      <a name="disabled" val="0"/>
     </comp>
     <comp lib="6" loc="(82,288)" name="Text">
       <a name="text" val="INPUTS"/>
@@ -9839,6 +9842,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <comp lib="2" loc="(140,860)" name="Decoder">
       <a name="selloc" val="tr"/>
       <a name="select" val="2"/>
+      <a name="disabled" val="0"/>
     </comp>
     <comp lib="4" loc="(400,450)" name="Register">
       <a name="width" val="32"/>
@@ -9871,6 +9875,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     </comp>
     <comp lib="2" loc="(290,790)" name="Decoder">
       <a name="select" val="3"/>
+      <a name="disabled" val="0"/>
     </comp>
     <comp lib="4" loc="(980,1170)" name="Register">
       <a name="width" val="32"/>
